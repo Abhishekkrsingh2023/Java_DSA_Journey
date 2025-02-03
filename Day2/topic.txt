@@ -1,0 +1,12 @@
+Today's Topic is Recursion
+
+Recursion is a programming technique where a function calls itself directly or indirectly to solve a problem. 
+It is often used to solve problems that can be broken down into smaller, similar sub-problems. 
+A recursive function typically has two main components:
+
+1. Base Case: The condition under which the recursion ends. This prevents the 
+   function from calling itself indefinitely.
+2. Recursive Case: The part of the function where the function calls itself with a 
+   modified argument, moving towards the base case.
+
+

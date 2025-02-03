@@ -1,0 +1,12 @@
+Topic : Problem solving on recursion
+
+a) Fibonacci Number
+b) Sorted Array (strictly increasing or descreasing)
+c) Binary Search
+
+Additional Problems :
+
+a) Power function (a^b)
+b) count number of zeroes
+c) GCD
+d) Revrese a string
