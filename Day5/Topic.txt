@@ -1,0 +1,45 @@
+Topic : Array & ArrayList
+
+Arrays:
+An array is a data structure that contains a fixed-size sequential collection of 
+elements of the same type. Arrays are used to store multiple values in a single variable, 
+instead of declaring separate variables for each value.
+
+Advantages of Arrays:
+1. Fast access to elements: Arrays provide O(1) time complexity for accessing elements by index.
+2. Memory efficiency: Arrays have a fixed size, which can lead to efficient memory usage.
+
+Limitations of Arrays:
+1. Fixed size: Once an array is created, its size cannot be changed. 
+   This can lead to wasted memory if the array is not fully utilized or 
+   insufficient space if more elements need to be added.
+2. Insertion and deletion: Inserting or deleting elements in an array 
+   can be time-consuming, as it may require shifting elements.
+
+ArrayLists:
+An ArrayList is a resizable array implementation of the List interface in Java. 
+It provides dynamic arrays that can grow as needed.
+
+Advantages of ArrayLists:
+1. Dynamic size: ArrayLists can grow and shrink in size automatically, providing 
+   more flexibility compared to arrays.
+2. Ease of use: ArrayLists provide built-in methods for common operations such as adding, 
+   removing, and searching for elements.
+
+Limitations of ArrayLists:
+1. Performance overhead: ArrayLists have a performance overhead due to the need to 
+   resize the underlying array when it becomes full.(Increases Time complexity)
+2. Higher memory usage: ArrayLists may use more memory than arrays due to the need to 
+   maintain additional information such as the current size and capacity.
+   (Generally when the ArrayList is full it Increases its capacity by 2x )
+
+Practice Questions:
+1. Write a Java program to create an array of integers and print the elements.
+2. Write a Java program to find the maximum and minimum elements in an array.
+3. Write a Java program to reverse the elements of an array.
+4. Write a Java program to create an ArrayList of strings and add elements to it.
+5. Write a Java program to remove an element from an ArrayList by index.
+6. Write a Java program to iterate over the elements of an ArrayList using a for-each loop.
+7. Write a Java program to convert an ArrayList to an array.
+8. Write a Java program to check if an ArrayList contains a specific element.
+
