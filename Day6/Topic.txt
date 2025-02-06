@@ -1,0 +1,10 @@
+Topic : 2D array
+
+2D array are array of array and are allocated in the heap Memory
+
+Practise Questions :
+a) Traversing 2D array using loop
+b) Finding the max element
+c) Finding the sum of elements
+d) Spiral printing of elements
+e) Sum of Each row
