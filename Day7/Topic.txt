@@ -1,0 +1,6 @@
+Topic : 2D array Problem Solving
+
+a) Finding Transpose
+b) Row with Max number of 1's
+c) Rotate Matrix by 90' 
+d) Spiral printing of elements
